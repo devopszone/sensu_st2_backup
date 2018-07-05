@@ -1,19 +1,19 @@
 ---
 # Used for post message action
 post_message_action:
-  webhook_url: "https://hooks.slack.com/services/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"
+  webhook_url: "https://hooks.slack.com/services/k5M6AK87N/BBE91JHU1/Q63J3KWCAcn9uFVjCvd5DIFf"
   channel: "#demost2"
-  username: "sravankumar"
+  username: "pavankumar"
   icon_emoji: ":panda_face:"
 
 # Used for Slack sensor
 sensor:
-  token: "xoxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
+  token: "toxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
   strip_formatting: false
 
-action_token: "xoxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
+action_token: "toxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
 admin:
-  admin_token: "xoxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
+  admin_token: "toxp-191214654260-377559666710-385323846612-63eb755fe30ead9ff526cb72201e95d6"
   organization: ""
   set_active: true
   attempts: 1
