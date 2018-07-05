@@ -1,0 +1,13 @@
+{
+  "handlers": {
+    "slack": {
+      "type": "pipe",
+      "command": "handler-slack.rb",
+      "severites": ["warning","critical", "unknown"]
+      }
+    },
+    "slack": {
+      "webhook_url": "https://hooks.slack.com/services/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",
+     "channel": "#demost2"
+    }
+}
